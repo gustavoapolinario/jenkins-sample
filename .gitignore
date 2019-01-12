@@ -1,1 +1,4 @@
 *.war
+.DS_Store
+jenkins_home/
+
